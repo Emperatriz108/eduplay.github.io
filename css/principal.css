@@ -7,7 +7,7 @@ body{
    
 }
 
-h1, h2,h3,h4 {
+h1,h2,h3,h4 {
     font-weight: bold;
 }
 .logo{
@@ -37,9 +37,9 @@ h1, h2,h3,h4 {
     border-collapse: collapse;
   }
   .right{
-      height: 60px;
-      background-color: #293462;
-      color: aliceblue;
+      height: 200px;
+      background-color: #f0f2fa;
+      color: white;
       padding: 0;
     
   }
